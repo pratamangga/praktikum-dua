@@ -1,2 +1,2 @@
 # praktikum-dua
-Tugas 2 Sistem Cerdas
+Praktikum 2 Sistem Cerdas menggunakan Streamlit
